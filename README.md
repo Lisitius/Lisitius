@@ -19,6 +19,15 @@ I am interested in :
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
 
+### My daily routine :
+
+```mermaid
+  graph TD;
+      Code-->Eat;
+      Eat-->Sleep;
+      Sleep-->Code;
+```
+
 <!--
 **Lisitius/Lisitius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
