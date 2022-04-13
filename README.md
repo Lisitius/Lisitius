@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Languages and tools :
+<img width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          
+
 <!--
 **Lisitius/Lisitius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
