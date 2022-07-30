@@ -24,7 +24,7 @@ I am interested in :
 ```mermaid
   graph TD;
       Code-->Eat;
-      Eat-->Game;
+      Eat-->Sleep;
       Sleep-->Code;
 ```
 
