@@ -25,7 +25,6 @@ I am interested in :
   graph TD;
       Code-->Eat;
       Eat-->Game;
-      Game-->Sleep;
       Sleep-->Code;
 ```
 
