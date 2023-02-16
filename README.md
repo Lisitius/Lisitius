@@ -2,7 +2,7 @@
 		<img alt="Lisitius's Welcome Message"
 			 src="http://readme-typing-svg.herokuapp.com?size=30&color=13F2F7&width=500&height=55&lines=Hi+there+!+%F0%9F%91%8B+Bonjour+!+%F0%9F%91%8B">
 </p>
-<p align="center">I am Benjamin and i have been in professional retraining for a few months to become a developer. </P>
+<p align="center">I am Benjamin and I'm studying development.</P>
 	<p align="center"><img src="https://emoji.gg/assets/emoji/4585-dancingblob.gif" width="30"/></p>
 
 I am interested in :
