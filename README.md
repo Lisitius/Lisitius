@@ -3,8 +3,6 @@
 			 src="http://readme-typing-svg.herokuapp.com?size=30&color=13F2F7&width=500&height=55&lines=Hi+there+!+%F0%9F%91%8B+Bonjour+!+%F0%9F%91%8B">
 </p>
 
-	<p align="center"><img src="https://emoji.gg/assets/emoji/4585-dancingblob.gif" width="30"/></p>
-
 I am interested in :
 <div align="left">
 <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> 
