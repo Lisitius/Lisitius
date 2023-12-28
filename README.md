@@ -1,6 +1,6 @@
 # Welcome to my GitHub Profile 👋
 
-Hi, I'm Benjamin, a French fullstack developer 🇫🇷 with a passion for Javascript and Typescript.
+Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f4akb3.png" alt="LinkedIn" width="10" height="10"/> with a passion for Javascript and Typescript.
 
 ## 🎓 Formation
 
