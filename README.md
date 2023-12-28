@@ -6,8 +6,8 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 
 ## 🎓 Formation
 
-- **Javascript/React application developer** - Recently completed training
-- **Web and mobile web developer** - Previous professional qualification
+- **Javascript/React application developer** (OpenClassrooms) - Recently completed training
+- **Web and mobile web developer** (AEN) - Previous professional qualification
 
 ## 🚀 My OpenClassrooms Projects
 
