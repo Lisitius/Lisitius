@@ -9,6 +9,10 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 - **Javascript/React application developer** (OpenClassrooms) - Recently completed training
 - **Web and mobile web developer** (AEN) - Previous professional qualification
 
+## 💻 My favorites language
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,sass)](https://skillicons.dev)
+
 ## 🚀 My OpenClassrooms Projects
 
 - [Project 2 : Transform a mock-up into a website with HTML & CSS](https://github.com/Lisitius/P2_Booki_OC)
@@ -23,7 +27,7 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 - [Project 14 : Switch a jQuery library to React](https://github.com/Lisitius/P14_WealthHealth)
 - [Project 14 : Dropdown for the project 14](https://github.com/Lisitius/p14-package-dropdown-wealth-health)
 
-## 💻 My favorites languages/tools/framework
+## 💻 Languages/tools/framework
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,mongodb,mysql,react,redux,sass,tailwind,bootstrap,git,github,vscode,postman,figma)](https://skillicons.dev)
 
@@ -50,3 +54,4 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 [1]: https://www.linkedin.com/in/benjamin-fichaux/
 [2]: https://twitter.com/LisiDev
 [3]: https://benjaminfichaux.site/
+
