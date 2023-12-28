@@ -39,10 +39,10 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 
 ## ❤️ My hobbies
 
-🏀 Basket Ball
-⚽ Football
-🎮 Electronic sports
-🎞️ Movie/Tv series
+🏀 Basket Ball  
+⚽ Football  
+🎮 Electronic sports  
+🎞️ Movie/Tv series  
 🐾 The animals
 
 [1]: https://www.linkedin.com/in/benjamin-fichaux/
