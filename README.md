@@ -31,15 +31,7 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 
 ## 📫 Connect with me
 
-<a href="https://www.linkedin.com/in/benjamin-fichaux/">
-    <img src="https://i.goopics.net/0dyorm.png" alt="LinkedIn" width="50" height="50"/>
-</a>  
-<a href="https://twitter.com/LisiDev">
-    <img src="https://i.goopics.net/rpk4su.png" alt="Twitter" width="50" height="50"/>
-</a>  
-<a href="https://benjaminfichaux.site/">
-    <img src="https://i.goopics.net/e3thx3.png" alt="Site Web" width="50" height="50"/>
-</a>
+[![linkedin](https://i.goopics.net/vmjrot.png)][1][![twitter](https://i.goopics.net/rpk4su.png)][2][![siteweb](https://i.goopics.net/db7vlw.png)][3]
 
 ## 🔥 My latest personal projects
 
@@ -52,3 +44,7 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 🎮 Electronic sports
 🎞️ Movie/Tv series
 🐾 The animals
+
+[1]: https://www.linkedin.com/in/benjamin-fichaux/
+[2]: https://twitter.com/LisiDev
+[3]: https://benjaminfichaux.site/
