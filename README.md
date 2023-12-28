@@ -31,7 +31,7 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 
 ## 📫 Connect with me
 
-[![linkedin](https://i.goopics.net/vmjrot.png)][1][![twitter](https://i.goopics.net/rpk4su.png)][2][![siteweb](https://i.goopics.net/db7vlw.png)][3]
+[![linkedin](https://i.goopics.net/o3ztuy.png)][1][![twitter](https://i.goopics.net/lpchhw.png)][2][![siteweb](https://i.goopics.net/cvq1od.png)][3]
 
 ## 🔥 My latest personal projects
 
