@@ -33,12 +33,10 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 
 <a href="https://www.linkedin.com/in/benjamin-fichaux/">
     <img src="https://i.goopics.net/0dyorm.png" alt="LinkedIn" width="50" height="50"/>
-</a>
-
+</a>  
 <a href="https://twitter.com/LisiDev">
     <img src="https://i.goopics.net/rpk4su.png" alt="Twitter" width="50" height="50"/>
-</a>
-
+</a>  
 <a href="https://benjaminfichaux.site/">
     <img src="https://i.goopics.net/e3thx3.png" alt="Site Web" width="50" height="50"/>
 </a>
