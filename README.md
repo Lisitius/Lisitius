@@ -1,4 +1,6 @@
-# Welcome to my GitHub Profile 👋
+<h1 align="center">Bienvenue sur mon Profil GitHub 👋</h1>
+
+<img align="right" alt="GIF" src="https://i.goopics.net/so82d8.jpg" width="300" height="300" />
 
 Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f4akb3.png" alt="LinkedIn" width="10" height="10"/> with a passion for Javascript and Typescript.
 
