@@ -41,8 +41,8 @@ Hi, I'm Benjamin, a French fullstack developer <img src="https://i.goopics.net/f
 
 ## 🔥 My latest personal projects
 
-- [Porfolio : https://github.com/Lisitius/Portfolio]
-- [SpaceDanger : https://github.com/Lisitius/Space_Danger]
+- Porfolio : https://github.com/Lisitius/Portfolio
+- SpaceDanger : https://github.com/Lisitius/Space_Danger
 
 ## ❤️ My hobbies
 
