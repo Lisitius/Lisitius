@@ -39,7 +39,7 @@ Hi, I'm Benjamin, a French frontend developer with a passion for Javascript and 
 
 [![linkedin](https://i.goopics.net/o3ztuy.png)][1][![twitter](https://i.goopics.net/lpchhw.png)][2][![siteweb](https://i.goopics.net/cvq1od.png)][3]
 
-## 🔥 My latest personal projects
+## 🔥 My latest projects
 
 - Porfolio : https://github.com/Lisitius/Portfolio
 - SpaceDanger : https://github.com/Lisitius/Space_Danger
