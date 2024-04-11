@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://i.goopics.net/so82d8.jpg" width="300" height="300" />
 
-Hi, I'm Benjamin, a French frontend developer with a passion for Javascript and Typescript.  <img src="https://i.goopics.net/f4akb3.png" alt="LinkedIn" width="15" height="15"/>
+Hi, I'm Benjamin, a French frontend developer with a passion for Javascript and Typescript.  [Linkedin](https://www.linkedin.com/in/benjamin-fichaux/)
 
 ## 🎓 Formation
 
