@@ -43,6 +43,7 @@ Hi, I'm Benjamin, a French frontend developer with a passion for Javascript and 
 
 - Porfolio : https://github.com/Lisitius/Portfolio
 - SpaceDanger : https://github.com/Lisitius/Space_Danger
+- 2D portfolio : https://chimerical-haupia-fbe39e.netlify.app
 
 ## ❤️ My hobbies
 
