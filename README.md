@@ -11,7 +11,7 @@ Hi, I'm Benjamin, a French frontend developer with a passion for Javascript and 
 
 ## 💻 My favorites language
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,sass)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
 
 ## 🚀 My OpenClassrooms Projects
 
